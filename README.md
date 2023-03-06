@@ -15,3 +15,5 @@ This project was created using
 * User profiles include more information on the user (full name, email, phone, join date), their campgrounds, and the option to edit their profile or delete their account
 * Search campground by name or location
 * Sort campgrounds by highest rating, most reviewed, lowest price, or highest price
+
+# How to run locally
